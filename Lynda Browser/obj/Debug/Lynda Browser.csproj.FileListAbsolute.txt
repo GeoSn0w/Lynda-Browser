@@ -1,0 +1,29 @@
+c:\users\george pc\documents\visual studio 2015\Projects\Lynda Browser\Lynda Browser\bin\Debug\Lynda Browser.exe.config
+c:\users\george pc\documents\visual studio 2015\Projects\Lynda Browser\Lynda Browser\bin\Debug\Lynda Browser.exe
+c:\users\george pc\documents\visual studio 2015\Projects\Lynda Browser\Lynda Browser\bin\Debug\Lynda Browser.pdb
+c:\users\george pc\documents\visual studio 2015\Projects\Lynda Browser\Lynda Browser\bin\Debug\Geckofx-Core.dll
+c:\users\george pc\documents\visual studio 2015\Projects\Lynda Browser\Lynda Browser\bin\Debug\Geckofx-Winforms.dll
+c:\users\george pc\documents\visual studio 2015\Projects\Lynda Browser\Lynda Browser\bin\Debug\Geckofx-Core.pdb
+c:\users\george pc\documents\visual studio 2015\Projects\Lynda Browser\Lynda Browser\bin\Debug\Geckofx-Winforms.pdb
+c:\users\george pc\documents\visual studio 2015\Projects\Lynda Browser\Lynda Browser\obj\Debug\Lynda Browser.csprojResolveAssemblyReference.cache
+c:\users\george pc\documents\visual studio 2015\Projects\Lynda Browser\Lynda Browser\obj\Debug\Lynda_Browser.Form1.resources
+c:\users\george pc\documents\visual studio 2015\Projects\Lynda Browser\Lynda Browser\obj\Debug\Lynda_Browser.Properties.Resources.resources
+c:\users\george pc\documents\visual studio 2015\Projects\Lynda Browser\Lynda Browser\obj\Debug\Lynda Browser.csproj.GenerateResource.Cache
+c:\users\george pc\documents\visual studio 2015\Projects\Lynda Browser\Lynda Browser\obj\Debug\Lynda Browser.exe
+c:\users\george pc\documents\visual studio 2015\Projects\Lynda Browser\Lynda Browser\obj\Debug\Lynda Browser.pdb
+c:\users\george pc\documents\visual studio 2015\Projects\Lynda Browser\Lynda Browser\bin\Debug\EasyTabs.dll
+c:\users\george pc\documents\visual studio 2015\Projects\Lynda Browser\Lynda Browser\bin\Debug\Microsoft.WindowsAPICodePack.dll
+c:\users\george pc\documents\visual studio 2015\Projects\Lynda Browser\Lynda Browser\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+c:\users\george pc\documents\visual studio 2015\Projects\Lynda Browser\Lynda Browser\bin\Debug\Win32Interop.Dwmapi.dll
+c:\users\george pc\documents\visual studio 2015\Projects\Lynda Browser\Lynda Browser\bin\Debug\Win32Interop.Gdi32.dll
+c:\users\george pc\documents\visual studio 2015\Projects\Lynda Browser\Lynda Browser\bin\Debug\Win32Interop.Kernel32.dll
+c:\users\george pc\documents\visual studio 2015\Projects\Lynda Browser\Lynda Browser\bin\Debug\Win32Interop.User32.dll
+c:\users\george pc\documents\visual studio 2015\Projects\Lynda Browser\Lynda Browser\bin\Debug\Win32Interop.Uxtheme.dll
+c:\users\george pc\documents\visual studio 2015\Projects\Lynda Browser\Lynda Browser\bin\Debug\EasyTabs.xml
+c:\users\george pc\documents\visual studio 2015\Projects\Lynda Browser\Lynda Browser\bin\Debug\Win32Interop.Dwmapi.pdb
+c:\users\george pc\documents\visual studio 2015\Projects\Lynda Browser\Lynda Browser\bin\Debug\Win32Interop.Gdi32.pdb
+c:\users\george pc\documents\visual studio 2015\Projects\Lynda Browser\Lynda Browser\bin\Debug\Win32Interop.Gdi32.xml
+c:\users\george pc\documents\visual studio 2015\Projects\Lynda Browser\Lynda Browser\bin\Debug\Win32Interop.Kernel32.pdb
+c:\users\george pc\documents\visual studio 2015\Projects\Lynda Browser\Lynda Browser\bin\Debug\Win32Interop.User32.pdb
+c:\users\george pc\documents\visual studio 2015\Projects\Lynda Browser\Lynda Browser\bin\Debug\Win32Interop.Uxtheme.pdb
+c:\users\george pc\documents\visual studio 2015\Projects\Lynda Browser\Lynda Browser\bin\Debug\JacksonSoft.CustomTabControl.dll
